@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test5
+=======
+edit by branch 3
+>>>>>>> branch_3
